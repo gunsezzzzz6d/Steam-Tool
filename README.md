@@ -1,8 +1,7 @@
 # SteamUnlocker
 
-**SteamUnlocker** ist ein einfaches Tool, mit dem du Zugriff auf eine große Sammlung von Steam-Spielen bekommst – alles an einem Ort.
+**SteamTool** ist ein einfaches Tool, mit dem du Zugriff alle spiele
 
-> ⚠️ **Hinweis:** Dieses Tool ist nur für Bildungs- und Demonstrationszwecke gedacht. Der Entwickler übernimmt keine Verantwortung für unsachgemäßen oder illegalen Gebrauch.
 
 ## 🔧 Funktionen
 
